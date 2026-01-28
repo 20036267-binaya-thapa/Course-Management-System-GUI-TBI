@@ -80,4 +80,4 @@ These choices provide sufficient performance for the expected dataset size.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Course-Management-System-GUI-TBI.git
+   git clone [https://github.com/20036267-binaya-thapa/Course-Management-System-GUI-TBI.git]
